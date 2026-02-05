@@ -83,8 +83,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-**Sourav Chakraborty** - [GitHub](https://github.com/yourusername)
+**Sourav Chakraborty** - [GitHub](https://github.com/webbysrv)
 
 🚀 **Open for freelance opportunities!** 
-If you need a high-quality mobile app built with Flutter, feel free to [reach out](mailto:your.email@example.com).
+If you need a high-quality mobile app built with Flutter, feel free to [reach out](mailto:hello@webbysrv.com).
 
