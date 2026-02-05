@@ -3,9 +3,13 @@
 A beautiful, modern event reminder and task management application UI built with Flutter.
 
 ![App UI]
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-05 at 11 24 24" src="https://github.com/user-attachments/assets/1a7f8c24-ba72-4209-8d06-93d375beaa63" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-05 at 11 24 35" src="https://github.com/user-attachments/assets/06949559-3982-4cf8-9b32-ee35865cc107" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-05 at 11 24 42" src="https://github.com/user-attachments/assets/d8162be3-0a44-429b-bee3-447751cc7d27" />
+
+| Onboarding | Dashboard | Reminders |
+| :---: | :---: | :---: |
+
+<img width="200" alt="Event reminder app Onboarding screen" src="https://github.com/user-attachments/assets/1a7f8c24-ba72-4209-8d06-93d375beaa63" />
+<img width="200" alt="Event reminder app Dashboard screen" src="https://github.com/user-attachments/assets/06949559-3982-4cf8-9b32-ee35865cc107" />
+<img width="200" alt="Event reminder app Reminders screen" src="https://github.com/user-attachments/assets/d8162be3-0a44-429b-bee3-447751cc7d27" />
 
 ## Features
 
